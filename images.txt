@@ -1,1 +1,1 @@
-apache/skywalking-oap-server:9.6.0@sha256:042b23457d188307ef0cd392d4116c8ecad42e4467e0a1b4612c43bc10539245
+apache/skywalking-ui:9.6.0@sha256:9e912576e8348634bdaf2a82c7d9e2c6f6bafb6ae8976a5f1fff08bcd9eec2cb
