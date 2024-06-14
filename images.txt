@@ -1,1 +1,1 @@
-fluentd:v1.16.2
+fluent/fluentd:v1.16.2
