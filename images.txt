@@ -1,1 +1,1 @@
-fluent/fluentd:v1.16.2-arm64
+ fluentd:1.16.2-arm
