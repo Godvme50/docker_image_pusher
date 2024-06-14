@@ -1,1 +1,1 @@
-fluent/fluent-bit:2.1.10-arm64
+fluent/fluentd:v1.16.2-arm64
