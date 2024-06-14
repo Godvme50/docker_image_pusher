@@ -1,1 +1,1 @@
-prom/prometheus
+fluentd:v1.16.2
