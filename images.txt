@@ -1,1 +1,1 @@
---platform linux/arm64 cr.fluentbit.io/fluent/fluent-bit:3.0.7
+mysql:8
