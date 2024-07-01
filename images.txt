@@ -1,4 +1,1 @@
-docker.io/ceph/ceph:v18.2.1
-docker.io/ceph/cosi:v0.1.1
-docker.io/cephcsi/cephcsi:v3.10.1
 docker.io/csiaddons/k8s-sidecar:v0.8.0
