@@ -1,1 +1,1 @@
-hexo-blog:latest
+wanf3ng/blog
