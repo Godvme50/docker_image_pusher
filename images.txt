@@ -1,1 +1,1 @@
-klakegg/hugo
+hexo-blog:latest
