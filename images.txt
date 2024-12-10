@@ -1,1 +1,1 @@
-wanf3ng/blog
+hexo-blog
