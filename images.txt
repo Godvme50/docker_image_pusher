@@ -1,1 +1,1 @@
-bloodstar/hexo
+gitlab/gitlab-ce:latest
